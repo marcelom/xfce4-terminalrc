@@ -8,7 +8,7 @@ This is my color preferences for my XFCE4 Terminal, with a dark background and b
 1. `cd` into your config dir
 
    ```
-   $ cd ~/.config/Terminal/
+   $ cd ~/.config/xfce4/terminal
    ```
 
 2. Backup any old setting you want to keep
